@@ -41,7 +41,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This tutorial teaches how to create drafts using the Gitlab template
 
 
 --- middle
