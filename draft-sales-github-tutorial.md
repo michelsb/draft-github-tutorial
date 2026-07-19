@@ -48,7 +48,7 @@ This tutorial teaches how to create drafts using the Gitlab template
 
 # Introduction
 
-TODO Introduction
+Thia is the Introduction
 
 
 # Conventions and Definitions
