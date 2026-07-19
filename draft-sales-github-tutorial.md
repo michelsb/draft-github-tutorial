@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: GEN
-workgroup: WG Working Group
+# area: GEN
+# workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "michelsb/draft-github-tutorial"
+  latest: "https://michelsb.github.io/draft-github-tutorial/draft-sales-github-tutorial.html"
 
 author:
  -
