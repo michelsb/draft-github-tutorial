@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-# area: GEN
-# workgroup: WG Working Group
+area: GEN
+workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
