@@ -14,7 +14,7 @@ Expires: 20 January 2027                              UFSertaoPernambuco
 
 Abstract
 
-   TODO Abstract
+   This tutorial teaches how to create drafts using the Gitlab template
 
 About This Document
 
