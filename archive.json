@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:34:28.007542+00:00",
+  "repo": "michelsb/draft-github-tutorial",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFbs7zhmVs",
+      "title": "Update draft-sales-github-tutorial.md",
+      "url": "https://github.com/michelsb/draft-github-tutorial/pull/1",
+      "state": "MERGED",
+      "author": "michelsb",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:31:34Z",
+      "updatedAt": "2026-07-19T11:32:34Z",
+      "baseRepository": "michelsb/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "c761ca1971f0ec34c5df7c6214a0e2a97606ae31",
+      "headRepository": "michelsb/draft-github-tutorial",
+      "headRefName": "michelsb-patch-1",
+      "headRefOid": "aad86725925300e418bb39c12c3a21c493d56822",
+      "closedAt": "2026-07-19T11:32:33Z",
+      "mergedAt": "2026-07-19T11:32:33Z",
+      "mergedBy": "michelsb",
+      "mergeCommit": {
+        "oid": "f274ebddbee762b682317f3548461fa0d3356535"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKFbs7zhn14",
+      "title": "Update draft-sales-github-tutorial.md",
+      "url": "https://github.com/michelsb/draft-github-tutorial/pull/2",
+      "state": "MERGED",
+      "author": "michelsb",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:34:09Z",
+      "updatedAt": "2026-07-19T11:34:56Z",
+      "baseRepository": "michelsb/draft-github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "f274ebddbee762b682317f3548461fa0d3356535",
+      "headRepository": "michelsb/draft-github-tutorial",
+      "headRefName": "michelsb-patch-2",
+      "headRefOid": "60c3a61d5cca2b4694139442e3a39ff53e8437d2",
+      "closedAt": "2026-07-19T11:34:56Z",
+      "mergedAt": "2026-07-19T11:34:56Z",
+      "mergedBy": "michelsb",
+      "mergeCommit": {
+        "oid": "8ba84b392b234249054050a409e692c898cd8857"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
